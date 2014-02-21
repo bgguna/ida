@@ -1,0 +1,8 @@
+Flooding
+
+INITIATOR ^ init
+IDLE ^ receive
+INITIATOR ^ receive
+IDLE ^ init
+DONE ^ receive
+DONE ^ init
